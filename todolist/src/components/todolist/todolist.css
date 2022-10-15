@@ -1,0 +1,14 @@
+.blue{
+    color: blue;
+}
+.vert{
+    color: green;
+}
+.todolist_suppr{
+    font-size: 20px;
+    color: red;
+}
+.todolist_suppr_none{
+    display: none;
+
+}
